@@ -1,4 +1,5 @@
-## Hi there 👋
+## 
+I sometimes use Adobe👋
 
 <!--
 **UserMiyam/UserMiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1200" height="630" alt="1200" src="https://github.com/user-attachments/assets/01b204ae-c206-4f4f-acdb-c53e94faa431" />
+
+<img width="954" height="531" alt="某SESSample" src="https://github.com/user-attachments/assets/e1e196a2-7255-46fa-8809-082b367a414e" />
