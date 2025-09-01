@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 <img width="1200" height="630" alt="1200" src="https://github.com/user-attachments/assets/01b204ae-c206-4f4f-acdb-c53e94faa431" />
 
-<img width="954" height="531" alt="某SESSample" src="https://github.com/user-attachments/assets/e1e196a2-7255-46fa-8809-082b367a414e" />
+<img width="506" height="515" alt="スクリーンショット 2023-11-29 195742" src="https://github.com/user-attachments/assets/9dd37125-df15-4abe-809f-f6f871b102bc" />
+
+<img width="564" height="640" alt="スクリーンショット 2023-11-29 195917" src="https://github.com/user-attachments/assets/218e95ee-faa2-44f4-960a-c1e4b23b042c" />
