@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 <img width="1200" height="630" alt="1200" src="https://github.com/user-attachments/assets/01b204ae-c206-4f4f-acdb-c53e94faa431" />
 
-<img width="3288" height="2446" alt="某SESSample" src="https://github.com/user-attachments/assets/378817d8-7091-4942-b90f-2d7d3750962c" />
+![Uploading 某SESSample.png…]()
