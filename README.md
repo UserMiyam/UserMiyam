@@ -1,5 +1,5 @@
 ## 
-I sometimes use Adobe👋　　
+I sometimes use Adobe👋  
 Community contribution activities by a certain company"
 <!--
 **UserMiyam/UserMiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
