@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="1200" height="630" alt="1200" src="https://github.com/user-attachments/assets/01b204ae-c206-4f4f-acdb-c53e94faa431" />
-https://go-workshop-conference.connpass.com/event/362435/
+[https://go-workshop-conference.connpass.com/event/362435/](https://go-workshop-conference.connpass.com/event/362435/)
 <img width="13273" height="9242" alt="某SESSample" src="https://github.com/user-attachments/assets/2c78b227-e294-435a-96c5-84de99f5e791" />
 
