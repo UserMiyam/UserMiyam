@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 Go Workshop Conference 2025 IN KOBE
 
 <img width="13273" height="9242" alt="某SESSample" src="https://github.com/user-attachments/assets/2c78b227-e294-435a-96c5-84de99f5e791" />
-某SES企業の子会社
+某SES企業
