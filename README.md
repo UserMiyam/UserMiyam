@@ -2,7 +2,6 @@
 I sometimes use Adobe👋  
 Community contribution activities by a certain company 
 
-https://usermiyam.github.io/MiyaLab-OutputBlog/
 
 <!--
 **UserMiyam/UserMiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
