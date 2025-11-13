@@ -1,4 +1,3 @@
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/69dbacf3-8da2-4e82-abcf-245d92ef17e7" />## 
 I sometimes use Adobe👋  
 Community contribution activities by a certain company 
 
